@@ -1,5 +1,14 @@
-Project name: Sort
+Project Name: MTSorter
 
-Description: To run eight sorting algorithms
+Problem Statement: To find the fastest and slowest sorting algorithms
 
+Requirements: Use eight sorting algorithms to sort some arrays
 
+Outcome: It should output the times that it took for each sorting algorithms to sort and the average of each experiment.
+
+Characteristics of the Software:
+
+- Has eight sorting algorithms
+- Uses threads
+- computes average of the sorting experiment
+- shows time of each sorting experiment
